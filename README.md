@@ -1,4 +1,4 @@
-# Initial automation framework test for EarnUp 
+# Initial automation framework example
 
 This is a simple functionality automation framework using Ruby language + unit/test framework + Selenium WebDriver
 
